@@ -1,0 +1,11 @@
+Roll,Name,Age,Gender,Course,City
+1,Adam,23,male,Python,Karachi
+2,John,,male,Java,
+3,Neha,24,female,Kotlin,Karachi
+4,Zoha,26,female,Javscript,
+5,Sultan,25,male,,Hyderabad
+,,,,,
+7,Asim,25,male,,Lahore
+8,,24,male,Kotlin,Peshawer
+9,Mona,25,,Java,
+10,Soha,27,female,Kotlin,Islamabad
